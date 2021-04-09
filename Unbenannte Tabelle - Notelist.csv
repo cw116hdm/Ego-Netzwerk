@@ -1,0 +1,6 @@
+id,name,sex,age,religion,verbindung,bildung
+A,Niklas,1,18,1,1,4
+B,Noemi,2,20,1,9,4
+C,Kathleen,2,21,1,9,4
+D,Paula,2,20,8,9,4
+E,Clara,2,21,1,,4
