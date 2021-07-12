@@ -1,0 +1,15 @@
+Codebuch,
+Wert,Kommentar
+edgelist,
+from,"definiert den Sender, entspricht der ID in der Nodelist."
+to,"definiert den Empfänger, entspricht der ID in der Nodelist."
+nodelist,
+id,"eindeutige Identifikation der Knoten, die erfasst werden. "
+name,definiert den Namen des Knotens.
+type,"definiert die Art des Knotens. (0 = Spielerin, 1 = Organisation Verein oder Land) "
+birth,definiert das Geburtsjahr.
+age,"definiert das Alter in Jahren. (0 = unter 21, 1 = 21 - 23, 2 = 23 - 26, 3 = 26 - 30, 4 = über 30)"
+position,"definiert die Position. (0 = Mittelblock, 1 = Zuspiel, 2 = Außenangriff, 3 = Diagonal, 4 = Libero "
+country,"definiert das Heimatland. (0 = Deutschland, 1 = Finnland, 2 = Niederlande, 3 = USA, 4 = Bulgarien, 5 = Belgien, 6 = Polen, 7 = Spanien)"
+height,"definiert die Körpergröße in cm. (0 = unter 170, 1 = 170 - 179, 2 = 180 - 189, 3 = über 190) "
+number,definiert die Rückennummer. 
