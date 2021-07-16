@@ -1,1 +1,1 @@
-# Ego-Netzwerk
+# MTV Stuttgart Netzwerk
